@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "45767944351",
+    "firebase_url": "https://growbox-350914-default-rtdb.firebaseio.com",
+    "project_id": "growbox-350914",
+    "storage_bucket": "growbox-350914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45767944351:android:720968120f42bad60b1aaa",
+        "android_client_info": {
+          "package_name": "com.growbox.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45767944351-7jaadkaf8j3r74r2kg1gb0dni5m3uhau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.growbox.app",
+            "certificate_hash": "62f9332ff3f32d63f1e5fa4ae71cab1f78733464"
+          }
+        },
+        {
+          "client_id": "45767944351-i1kjct7bgr998fa9ujerk1m168dsmqgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKH__jCjH3TJbdUF3dMunxOR0dJIuBu-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45767944351-i1kjct7bgr998fa9ujerk1m168dsmqgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45767944351:android:fe17c820cfac854d0b1aaa",
+        "android_client_info": {
+          "package_name": "com.growbox.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45767944351-i1kjct7bgr998fa9ujerk1m168dsmqgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKH__jCjH3TJbdUF3dMunxOR0dJIuBu-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45767944351-i1kjct7bgr998fa9ujerk1m168dsmqgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
